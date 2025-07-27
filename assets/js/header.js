@@ -22,44 +22,53 @@ document.addEventListener('DOMContentLoaded', function() {
                     <li><a href="index.html#services">Services</a></li>
                     <li><a href="feature-details.html">Features</a></li>
                     <!-- <li><a href="blog.html">Blog</a></li>-->
-                    <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                    
+                    <li class="listing-dropdown"><a href="data-services.html"><span>Data Services</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
-                            <li><a href="#">Dropdown 1</a></li>
-                            <li class="dropdown"><a href="#"><span>Deep Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-                                <ul>
-                                    <li><a href="#">Deep Dropdown 1</a></li>
-                                    <li><a href="#">Deep Dropdown 2</a></li>
-                                    <li><a href="#">Deep Dropdown 3</a></li>
-                                    <li><a href="#">Deep Dropdown 4</a></li>
-                                    <li><a href="#">Deep Dropdown 5</a></li>
-                                </ul>
+                            <li>
+                                <a href="data-services.html">Business & Corporate Data</a>
+                                <a href="data-services.html">Manufacturing & Industrial Data</a>
+                                <a href="data-services.html">Construction & Building Materials</a>
                             </li>
-                            <li><a href="#">Dropdown 2</a></li>
-                            <li><a href="#">Dropdown 3</a></li>
-                            <li><a href="#">Dropdown 4</a></li>
+                            <li>
+                                <a href="data-services.html">Healthcare & Medical Sector</a>
+                                <a href="data-services.html">FMCG, Food & Hospitality</a>
+                                <a href="data-services.html">Education & Professional Services</a>
+                            </li>
+                            <li>
+                                <a href="data-services.html">Consumer & Lifestyle Businesses</a>
+                                <a href="data-services.html">Logistics & Warehousing</a>
+                                <a href="data-services.html">Environmental & Utility Services</a>
+                            </li>
+                            <li>
+                                <a href="data-services.html">Specialty Industrial Segments</a>
+                                <a href="data-services.html">Media, Printing & Publishing</a>
+                                <a href="data-services.html">Events & Trade Shows</a>
+                            </li>
+                        
                         </ul>
                     </li>
-                    <li class="listing-dropdown"><a href="#"><span>Data Services</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+                    <li class="listing-dropdown"><a href="use-cases.html"><span>Use cases</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li>
-                                <a href="#">Business & Corporate Data</a>
-                                <a href="#">Manufacturing & Industrial Data</a>
-                                <a href="#">Construction & Building Materials</a>
+                                <a href="use-cases.html">Customer Intelligence & Targeting</a>
+                                <a href="use-cases.html">Advertising & Campaign Analytics</a>
+                                <a href="use-cases.html">Lead & Account Intelligence</a>
                             </li>
                             <li>
-                                <a href="#">Healthcare & Medical Sector</a>
-                                <a href="#">FMCG, Food & Hospitality</a>
-                                <a href="#">Education & Professional Services</a>
+                                <a href="use-cases.html">Sales Enablement</a>
+                                <a href="use-cases.html">Trading & Investment Intelligence</a>
+                                <a href="use-cases.html">Risk & Compliance Analytics</a>
                             </li>
                             <li>
-                                <a href="#">Consumer & Lifestyle Businesses</a>
-                                <a href="#">Logistics & Warehousing</a>
-                                <a href="#">Environmental & Utility Services</a>
+                                <a href="use-cases.html">Location & Spatial Intelligence</a>
+                                <a href="use-cases.html">Retail & Real Estate Intelligence</a>
+                                <a href="use-cases.html">Product & Market Intelligence</a>
                             </li>
                             <li>
-                                <a href="#">Specialty Industrial Segments</a>
-                                <a href="#">Media, Printing & Publishing</a>
-                                <a href="#">Events & Trade Shows</a>
+                                <a href="use-cases.html"> Consumer & Purchase Behavior</a>
+                                <a href="use-cases.html">Healthcare & Life Sciences</a>
+                                <a href="use-cases.html">Emerging Technologies</a>
                             </li>
                         
                         </ul>
