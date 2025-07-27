@@ -42,24 +42,24 @@ document.addEventListener('DOMContentLoaded', function() {
                     <li class="listing-dropdown"><a href="#"><span>Data Services</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                         <ul>
                             <li>
-                                <a href="#">All India B2B Company Database</a>
-                                <a href="#">Telecalling & Marketing Contact</a>
-                                <a href="#">SME & MSME Company Data (All Sectors)</a>
+                                <a href="#">Business & Corporate Data</a>
+                                <a href="#">Manufacturing & Industrial Data</a>
+                                <a href="#">Construction & Building Materials</a>
                             </li>
                             <li>
-                                <a href="#">Manufacturers & Industrial Suppliers</a>
-                                <a href="#">Exporters and Importers Directory</a>
-                                <a href="#">Distributors & Dealers Contact List</a>
+                                <a href="#">Healthcare & Medical Sector</a>
+                                <a href="#">FMCG, Food & Hospitality</a>
+                                <a href="#">Education & Professional Services</a>
                             </li>
                             <li>
-                                <a href="#">Retailers & Local Traders Database</a>
-                                <a href="#">Private Limited Companies</a>
-                                <a href="#">Corporate Company Contacts (Pan India)</a>
+                                <a href="#">Consumer & Lifestyle Businesses</a>
+                                <a href="#">Logistics & Warehousing</a>
+                                <a href="#">Environmental & Utility Services</a>
                             </li>
                             <li>
-                                <a href="#">E-Commerce</a>
-                                <a href="#">FMCG</a>
-                                <a href="#">Startup Companies</a>
+                                <a href="#">Specialty Industrial Segments</a>
+                                <a href="#">Media, Printing & Publishing</a>
+                                <a href="#">Events & Trade Shows</a>
                             </li>
                         
                         </ul>
