@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         <li><i class="bi bi-chevron-right"></i> <a href="index.html#about">About us</a></li>
                         <li><i class="bi bi-chevron-right"></i> <a href="index.html#services">Services</a></li>
                         <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
+                        <li><i class="bi bi-chevron-right"></i> <a href="privacy.html">Privacy Policy</a></li>
                     </ul>
                 </div>
 
